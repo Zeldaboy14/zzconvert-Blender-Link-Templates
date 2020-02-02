@@ -1,0 +1,36 @@
+OBJECT LINK CHILD OPTAMIZED OFFEST MM GEAR    
+
+- - - - - - DE COMMANDS - - - - - - -
+
+0x022e08 - Mirror Shield DE Command ( end - 0x022e18)
+
+0x0241f0 - Razor Sword Hilt DE Command  (end - 0x024210)
+
+0x024218 - Razor Sword Blade DE Command (end - 0x024250)
+
+0x024818 - Razor Sword Sheath (end - 0x024938)
+
+0x024C48 - Bottle Contents 
+
+0x024Ed8 - Bottle MM
+
+0x025000 - Bottle MM De Command ( end - 0x025020)
+
+0x0255d0 - Kokiri Sword Hilt
+
+0x025ea8 - Kokiri Sword Blade DE Command (end 0x025ef8)
+
+0x026298 - Kokiri Sword Sheath (end 0x0263b0)
+
+0x0271E8 - Gilded Sword Hilt DE Command  (end - 0x027228)
+
+0x027948 - Gilded Sword Blade DE Command (end - 0x027978)
+
+0x028798 - Gilded Sword Sheath DE Command (end - 0x287c0)
+
+0x029420 - Hero's Bow String
+
+0x029880 - MM Hookshot
+
+0x02a1f8 - Hero's Bow
+
