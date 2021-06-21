@@ -2,6 +2,8 @@ OBJECT LINK CHILD OPTAMIZED OFFEST MM GEAR
 
 - - - - - - DE COMMANDS - - - - - - -
 
+0x022688 - Heros Shield
+
 0x022e08 - Mirror Shield DE Command ( end - 0x022e18)
 
 0x0241f0 - Razor Sword Hilt DE Command  (end - 0x024210)
@@ -26,11 +28,27 @@ OBJECT LINK CHILD OPTAMIZED OFFEST MM GEAR
 
 0x027948 - Gilded Sword Blade DE Command (end - 0x027978)
 
-0x028798 - Gilded Sword Sheath DE Command (end - 0x287c0)
+0x028798 - Gilded Sword Sheath DE Command (end - 0x0287c0)
 
 0x029420 - Hero's Bow String
 
 0x029880 - MM Hookshot
 
+0x02E8C0 - GFS Blade Side
+
+0x02E988 - GFS Blade Guard 1
+
+0x02EA60 - GFS Blade Guard 2
+
+0x02EB50 - GFS Hilt Middle Blade
+
+0x02ECA0 - GFS DE Comamnd (end - 0x02ECD0)
+
+
+
 0x02a1f8 - Hero's Bow
+
+0x02B6F0 - FPS Hand (end - 0x2b9f8)
+
+
 
